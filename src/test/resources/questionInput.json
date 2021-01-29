@@ -1,0 +1,8 @@
+{"Vulnerabilities": [
+{"id": "WXO921", "package_manager": "maven", "library" : "taglibs-2.3.1"} ,
+{"id": "QJO456", "package_manager": "maven", "library" : "bootstrap-9.2.5"} ,
+{"id": "QJO459", "package_manager": "maven", "library" : "commons-codec-2.5"},
+{"id": "EJA774", "package_manager": "gradle", "library" : "taglibs-2.3.1"} ,
+{"id": "WXO921", "package_manager": "maven", "library" : "taglibs-2.3.1"} ,
+{"id": "QJO456", "package_manager": "maven", "library" : "bootstrap-9.2.5"} ,
+{"id": "AFV452", "package_manager": "npm", "library" : "taglibs-2.3.1"} ]}
